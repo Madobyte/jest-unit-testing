@@ -2,7 +2,7 @@
 
 by M. Bambalan
 
-**Technologies Used:**\
+**Technologies Used:**
 
 - Jest
 - Babel (to support ES6 syntax)
